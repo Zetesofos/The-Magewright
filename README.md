@@ -36,4 +36,5 @@ If you have questions or comments, you can reach me at any of the following loca
 Zetesofos (Zetesofos@gmail.com); also Zetesofos on Discord
 
 Magewright Discord Post: https://discord.com/channels/332362513368875008/1326283237693329430
+
 Subreddit Post: https://old.reddit.com/r/drawsteel/comments/1lqwns3/preview_the_magewright_play_an_artificer_in_draw/
