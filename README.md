@@ -3,15 +3,25 @@ The Magewright is an independent product published under the DRAW STEEL Creator 
 CREDITS
 
 Lead Designer: Zetesofos
+
 Design Development: Ben (Surfing Bird), Exorcist, Jonas Tintenseher (Ridian), Matthew Mitchell, Tamwin "Tamwin5" Le'Feur
+
 Editing: Zetesofos, Jonas Tintenseher (Ridian)
+
 Proofreading: Donis
+
 Production: Zetesofos
+
 Playtesting and Balancing:   Ben (Surfing Bird), Danko, dnkmnk, DragonTurtleMK1, Jonas Tintenseher (Ridian), Matthew Mitchell, Spyger, Toxicaptain, Tamwin "Tamwin5" Le'Feur
+
 Art Direction: Zetesofos
+
 Cover Illustration: Ilya Royz
+
 Illustration and Design:  Daniel Carrai, Yasen Stoilov
+
 Graphic Design and Layout: Jonas Tintenseher 
+
 FoundryVTT Integration: ChaosOS
 
 
