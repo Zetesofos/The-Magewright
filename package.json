@@ -1,0 +1,22 @@
+{
+  "name": "magewright_drawsteel",
+  "version": "1.0.0",
+  "description": "FoundryVTT Module for Magewright Class lvl 1-3",
+  "keywords": [
+    "magewright",
+    "drawsteel"
+  ],
+  "license": "UNLICENSED",
+  "author": "Zetesofos",
+  "type": "ESM",
+  "main": "index.js",
+  "scripts": {
+    "pullJSONtoLDB": "node ./tools/pullJSONtoLDB.mjs",
+    "pushLDBtoJSON": "node ./tools/pushLDBtoJSON.mjs",
+    "unpack": "npm run pushLDBtoJSON",
+    "build:packs": "npm run pullJSONtoLDB"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.2"
+  }
+}

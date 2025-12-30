@@ -1,0 +1,71 @@
+{
+  "id": "the-magewright",
+  "title": "The Magewright",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Zetesofos",
+      "email": "Zetesofos@gmail.com",
+      "discord": "Zetesofos",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "magewright-class",
+      "label": "Magewright Class",
+      "path": "packs/magewright-class",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "magewright-perks",
+      "label": "Magewright Perks",
+      "path": "packs/magewright-perks",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "magewright-servitors",
+      "label": "Magewright Servitors",
+      "path": "packs/magewright-servitors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "magewright-treasures",
+      "label": "Magewright Treasures",
+      "path": "packs/magewright-treasures",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
