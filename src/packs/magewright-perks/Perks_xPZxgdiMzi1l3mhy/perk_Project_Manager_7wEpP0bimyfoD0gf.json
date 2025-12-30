@@ -1,0 +1,40 @@
+{
+  "folder": "xPZxgdiMzi1l3mhy",
+  "name": "Project Manager",
+  "type": "perk",
+  "_id": "7wEpP0bimyfoD0gf",
+  "img": "icons/tools/navigation/map-chart-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you take a respite activity, you can make a roll to assist a test of any number of allies or followers that make a crafting project roll, as long as you’re in the same settlement. Additionally, when you take a respite, choose one ally or retainer. They gain the benefit of any feature or perk related to crafting project rolls during that respite.</p><p><strong>Special:</strong> This perk can only be taken by a Magewright hero.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "project-manager",
+    "advancements": {},
+    "perkType": "crafting"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035377404,
+    "modifiedTime": 1767035377404,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!7wEpP0bimyfoD0gf"
+}

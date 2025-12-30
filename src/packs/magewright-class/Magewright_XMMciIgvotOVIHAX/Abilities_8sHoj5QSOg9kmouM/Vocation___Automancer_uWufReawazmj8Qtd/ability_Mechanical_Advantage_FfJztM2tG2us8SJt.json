@@ -1,0 +1,143 @@
+{
+  "folder": "uWufReawazmj8Qtd",
+  "name": "Mechanical Advantage",
+  "type": "ability",
+  "_id": "FfJztM2tG2us8SJt",
+  "img": "icons/commodities/tech/metal-claws.webp",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "mechanical-advantage",
+    "story": "Work smarter not harder.",
+    "keywords": [
+      "magic",
+      "melee",
+      "strike",
+      "weapon"
+    ],
+    "type": "main",
+    "category": "heroic",
+    "resource": 5,
+    "trigger": "",
+    "distance": {
+      "type": "melee",
+      "primary": 1
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "creatureObject",
+      "custom": "1",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "formula": "@chr",
+        "characteristics": [
+          "might",
+          "agility"
+        ]
+      },
+      "effects": {
+        "GF2I6GiUfTT6LMnu": {
+          "name": "",
+          "img": null,
+          "type": "damage",
+          "_id": "GF2I6GiUfTT6LMnu",
+          "damage": {
+            "tier1": {
+              "value": "6 + @chr",
+              "types": [],
+              "properties": [],
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "value": "9 + @chr",
+              "types": [],
+              "properties": [],
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "value": "12 + @chr",
+              "types": [],
+              "properties": [],
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          },
+          "sort": 0
+        },
+        "WxZzMd75gpv5j2Pg": {
+          "name": "",
+          "img": null,
+          "type": "applied",
+          "_id": "WxZzMd75gpv5j2Pg",
+          "applied": {
+            "tier1": {
+              "display": "grabbed",
+              "effects": {},
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "display": "",
+              "effects": {},
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "display": "",
+              "effects": {},
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          },
+          "sort": 0
+        }
+      }
+    },
+    "effect": {
+      "before": "<p>While the target is grabbed by your servitor, the target has a bane on power rolls to escape them, and whenever they take rolled damage they take extra damage equal to twice your Reason score.<br /><br /><strong>Special:</strong> Only your servitor can use this ability.</p>",
+      "after": ""
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!FfJztM2tG2us8SJt"
+}

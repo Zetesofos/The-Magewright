@@ -1,0 +1,39 @@
+{
+  "folder": "WNjLCHuEZvT3Enln",
+  "name": "Wonder",
+  "type": "feature",
+  "_id": "UY1KOjkNBkFo8Gs8",
+  "img": "icons/tools/navigation/spyglass-telescope-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>Creativity depends on new experiences, and the forge of battle brings new ideas to light, granting you a Heroic Resource called wonder. </p><h4>Wonder in Combat</h4><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wonder equal to your Victories. At the start of each of your turns during combat, you gain 1d3 wonder. </p><p>Additionally, you gain wonder each round based on your chosen vocation. The first time you or an ally spends 3 or more surges to increase the damage on an ability in an encounter, you gain 1d3 wonder. The first time you or an ally spends 2 surges to increase the potency of an ability, you gain 1d3 wonder.</p><p>You lose any remaining wonder at the end of the encounter.</p><h4>Wonder Outside of Combat</h4><p>Though you can’t gain wonder outside of combat, you can use your heroic abilities and effects that cost wonder without spending it. Whenever you use an ability or effect outside of combat that costs wonder, you can’t use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite. </p><p>If you use an ability outside of combat that lets you spend unlimited wonder on its effect, such as Infusion, you can use it as if you had spent an amount of wonder on it equal to your Victories.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "wonder",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!UY1KOjkNBkFo8Gs8"
+}

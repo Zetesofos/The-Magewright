@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "S0EWvzt68FycPLPk",
+  "name": "Vocation - Gilder",
+  "color": null,
+  "sorting": "a",
+  "_id": "sv0uSlDkSdrDXgYA",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!sv0uSlDkSdrDXgYA"
+}

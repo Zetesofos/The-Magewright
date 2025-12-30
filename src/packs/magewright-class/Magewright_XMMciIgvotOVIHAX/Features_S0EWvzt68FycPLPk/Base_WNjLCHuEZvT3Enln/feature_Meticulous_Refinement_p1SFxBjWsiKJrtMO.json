@@ -1,0 +1,39 @@
+{
+  "name": "Meticulous Refinement",
+  "type": "feature",
+  "img": "icons/skills/trades/smithing-tongs-metal-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Each time you use your Infusion ability, you gain 1 wonder that can be spent only on that ability during the same turn. If you don’t use this wonder, you can grant the target 1 of their Heroic Resource instead. This Heroic Resource disappears at the end of the target’s turn if they don’t spend it.</p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "feature",
+    "advancements": {}
+  },
+  "effects": [],
+  "folder": "WNjLCHuEZvT3Enln",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "_id": "p1SFxBjWsiKJrtMO",
+  "sort": 125000,
+  "_key": "!items!p1SFxBjWsiKJrtMO"
+}

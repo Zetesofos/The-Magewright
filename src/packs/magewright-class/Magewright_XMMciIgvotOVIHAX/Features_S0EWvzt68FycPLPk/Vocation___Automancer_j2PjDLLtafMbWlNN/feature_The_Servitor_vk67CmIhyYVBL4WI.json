@@ -1,0 +1,39 @@
+{
+  "folder": "j2PjDLLtafMbWlNN",
+  "name": "The Servitor",
+  "type": "feature",
+  "_id": "vk67CmIhyYVBL4WI",
+  "img": "icons/equipment/head/helm-barbute-brown-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Servitor</p><p>You create a servitor that can join you on your adventure. Your servitor uses one of the statblocks below and the following special rules:</p><p><strong>Servitor Stamina and Recoveries.</strong> Your servitor increases its maximum stamina by 9 for each level after the 1st. Your servitor has no Recoveries of their own. Instead, when an effect would allow your servitor to spend a Recovery, it spends one of your Recoveries. </p><p><strong>Magewright Recoveries.</strong> Increase your number of Recoveries by 4. </p><p><strong>Servitor Actions.</strong> Your servitor is your ally, but they take their turn as a part of your turn. For the purpose of effects that end at the end of the servitor’s turn, or any other rules elements that depend on the start or end of the creature's turn, the start and end of your turn is also the start and end of the servitor’s turn. </p><p>You and your servitor each have separate move actions. You have one triggered action which can be taken by either you or your servitor. You split your maneuver and action between you: if you take an action, you can’t take a maneuver but your servitor can. If you take a maneuver, you can’t take an action but your servitor can. Taking an action doesn’t prevent you from taking free maneuvers.</p><p><strong>Shared Maneuvers.</strong> When you or your servitor take the following maneuvers, you can choose for both of you to benefit from the maneuver: Catch Breath, Escape Grab, Hide, Stand Up. </p><p><strong>Remote Link.</strong> Whenever you use a magewright ability, you can do so as if you were in the servitor’s space. Doing so counts as the servitor’s action or maneuver for the turn.</p><p><strong>Construct.</strong> Your servitor can’t be frightened. </p><p><strong>Inert.</strong> Your servitor becomes inert at negative half their stamina. While inert, it cannot take actions, maneuvers, triggered actions or move. As a maneuver, you can spend 5 Wonder to restore your Servitor with 1 Stamina, even if their body was destroyed.</p><p><strong>Servitor Abilities.</strong> If an ability has the servitor keyword, it can only be used by an automancer’s servitor. </p><p><strong>Shared Senses.</strong> While you are both within 1 mile of each other, you can communicate telepathically as if you shared a language  and share each other’s senses.  While sharing senses, each of you also benefit from your own senses at the same time.</p><p><strong>Shared Space.</strong> Both of you can freely move through and stop in each others’ spaces. </p><p><strong>Shared Skills.</strong> Your servitor has any skill that you have, and vice versa. No matter what skills they possess, your servitor can’t take any action that is not allowed by their design.</p><p><strong>Kit.</strong> You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (Quick Build: Pugulist.) When your servitor deals damage with an action that doesn’t have a power roll, the damage bonus from the kit is not added to that damage. </p><p><strong>Shared Perks and Titles.</strong> If you gain a benefit by earning a perk or a title, your servitor gains the same benefit. Your servitor can only use benefits that are logically usable by a construct: for instance, a construct can’t die and therefore can’t benefit from the Doomed perk. </p><p><strong>Surges.</strong> Surges gained by your servitor go to your surge pool, which your servitor shares. Your servitor can spend your surges the same way you can. When the same effect would grant surges to you both, you only gain surges once. </p><p><strong>Changing Your Servitor.</strong> As a respite activity, you can deactivate your current servitor, gaining a new servitor of a different type or re-activating a servitor you previously powered down. </p><p><strong>One Hero.</strong> You and your servitor count as one hero for determining the difficulty of combats, montage tests, and so on.</p><p><strong>Consumables.</strong> While your companion can’t use all consumables, with your help they can benefit from an edible or drinkable consumable, such as a Healing Potion. While wearing a kit, they can also benefit from a consumable that enhances a weapon, such as a Lachomp Tooth. While you are adjacent to your companion, when you use one of these consumables, you can grant the benefit to your companion instead of yourself. You must spend the action required to use the consumable; your companion doesn’t need to take any action.</p><p><strong>Trinkets.</strong>  Servitors can wear any trinket a hero can, with all the normal limits on available body slots. </p><p><strong>Leveled Items.</strong> When you wield a leveled weapon, armor, implement, or other leveled item, your servitor gains the benefits of the magic treasure as if they were wielding it. As is true with any character, both of you only benefit from a wieldable magic weapon or armor if its keywords match your kit. Your servitor can also wield one leveled treasure independently of you, as long as its keywords match the kit of your servitor. </p><p><strong>Adding or Subtracting Actions.</strong> Although you and your servitor share your action economy, you are treated as separate creatures by effects that grant or remove main actions, maneuvers, and moves. For instance, the talent’s Applied Chronometrics grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers. </p><p>Similarly, the dazed condition limits a creature to using only one of a move, maneuver, or main action on their turn. Being dazed works just the same on you or your servitor as it does on other creatures: the dazed creature can only do one thing on their turn (move, maneuver, or main action). You being dazed has no effect on your partner.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "the-servitor",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!vk67CmIhyYVBL4WI"
+}

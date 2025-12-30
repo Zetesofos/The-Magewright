@@ -1,0 +1,39 @@
+{
+  "name": "Experimental Device",
+  "type": "feature",
+  "img": "icons/commodities/tech/tube-chamber-lightning.webp",
+  "system": {
+    "description": {
+      "value": "<p>During a respite, you are able to create a number of experimental devices equal to twice your Reason score, from among the list below. These experimental devices count as trinkets, and last until you use this feature again. Once per round, whenever a creature with a device uses a signature or heroic ability, they can activate a device (no action required). Additionally, creatures can use a free maneuver to gift or trade a device with a willing adjacent ally.</p><p><strong>Angular Fulcrum.</strong> When you use an ability that pushes or pulls a creature or object with forced movement, you can activate this device to slide them instead. Until the start of your next turn, your stability becomes 0 and any forced movement that affects you has its distance increased by 2. </p><p><strong>Harmonic Resonator.</strong> When you use an ability that has a potency effect, you can activate this device to increase the potency by 1. You then lose Stamina equal to 1d6 + your level. </p><p><strong>Recoil Compensator.</strong> If you use an ability with the Ranged keyword you can activate this device to gain an edge on any power roll and increase the distance of that ability by 10. You are then pushed a number of squares equal to 2 plus the tier of the power roll. </p><p><strong>Recycling Capacitor.</strong> When you use a heroic ability and obtain a tier 1 result, you can activate this device and regain 1 heroic resource. </p><p><strong>Transpositional Matrix.</strong> When you use a signature or heroic ability, you can activate this device to spend 1 surge and teleport a number of squares equal to the magewright’s Reason score before or after the ability. </p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "feature",
+    "advancements": {}
+  },
+  "effects": [],
+  "folder": "ZJ2IsFDvooWBUnhl",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "_id": "Kxhtn1jld0ClUi21",
+  "sort": 200000,
+  "_key": "!items!Kxhtn1jld0ClUi21"
+}

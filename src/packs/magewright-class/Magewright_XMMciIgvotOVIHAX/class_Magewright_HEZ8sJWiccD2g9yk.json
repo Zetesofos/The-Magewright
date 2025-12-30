@@ -1,0 +1,433 @@
+{
+  "folder": "XMMciIgvotOVIHAX",
+  "name": "Magewright",
+  "type": "class",
+  "_id": "HEZ8sJWiccD2g9yk",
+  "img": "icons/commodities/tech/cog-large-steel-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>To create is to grasp at immortality. From the humblest apprentice to a master artisan. The magewright sits at the line between the mundane and the magical, and seeks to bend the power of the arcane toward infusing objects with supernatural power.</p><p>As a magewright, you are able to utilize the majesty of magic and infuse it into the stone and steel of your creations. Bolstered with your enchantments, these tools to alter the nature of your allies assault or deploy constructs as unyielding sentinels upon the battlefield. Your choice of vocation determines which of these approaches you are best equipped to use.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "magewright",
+    "advancements": {
+      "rj3RxzGGbxcDIGvi": {
+        "name": "Skill",
+        "img": "icons/svg/hanging-sign.svg",
+        "type": "skill",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "rj3RxzGGbxcDIGvi",
+        "skills": {
+          "choices": [
+            "magic"
+          ],
+          "groups": []
+        },
+        "description": "<p>You gain the Magic skill</p>",
+        "sort": 0,
+        "chooseN": null
+      },
+      "oM1IajLpgSEWDMsx": {
+        "name": "Choose Skill",
+        "img": "icons/svg/hanging-sign.svg",
+        "type": "skill",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "oM1IajLpgSEWDMsx",
+        "description": "<p>Choose any three skills from Heal, Drive, Conceal Object, Escape Artist, Pick Lock, Sabotage, Search, or the skills of the crafting or lore skill groups.</p>",
+        "chooseN": 3,
+        "skills": {
+          "groups": [
+            "crafting",
+            "lore"
+          ],
+          "choices": [
+            "drive",
+            "heal",
+            "concealObject",
+            "escapeArtist",
+            "pickLock",
+            "sabotage",
+            "search"
+          ]
+        },
+        "sort": 0
+      },
+      "JHDZfdXPE3y0kQe9": {
+        "name": "Magewright Vocation",
+        "img": "icons/tools/scribal/magnifying-glass.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "JHDZfdXPE3y0kQe9",
+        "description": "<p>Choose a magewright vocation from the following options <em>(Quick Build: Catalyst)</em></p>",
+        "chooseN": 1,
+        "additional": {
+          "type": "",
+          "perkType": []
+        },
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.Kacx0Q6kx1wW22J7"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.2u7Xyx1MowMTzIcN"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.5d81NPw3ufnhZgBm"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.QxPQssJgAlNtHbA8"
+          }
+        ],
+        "sort": 0
+      },
+      "kMiJJlQZSxjQQ9LV": {
+        "name": "Features",
+        "img": "icons/magic/symbols/chevron-elipse-circle-blue.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "kMiJJlQZSxjQQ9LV",
+        "description": "<p>You gain the following features.</p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.lo9ZXOckDKvyaDgu"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.UY1KOjkNBkFo8Gs8"
+          }
+        ],
+        "sort": 0,
+        "chooseN": null,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "CjXtKK3REcGfzHIG": {
+        "name": "Upgrades",
+        "img": "icons/tools/fasteners/bolt-brass-yellow.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "CjXtKK3REcGfzHIG",
+        "description": "<p>You have taken to making custom modifications to your equipment to enhance your statistics. You can choose one of the following upgrades. You can change your upgrade by tinkering with your equipment as a respite activity.</p><p></p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.ZYr1okDN0IKgrNTP"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.VwMjo5IFsvtKaOnY"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.eKGx3dDTfXzRUhH8"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.pcQtNQYBX5d5Gkzl"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.EHz0HSfGCFJq6BqO"
+          }
+        ],
+        "chooseN": 1,
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "iTC54fjkKVWCWS7t": {
+        "name": "Magewright Ward",
+        "img": "icons/magic/symbols/cog-shield-white-blue.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "iTC54fjkKVWCWS7t",
+        "description": "<p>Your magic allows you to enchant your equipment to provide additional protection. Choose one of the following wards. You can change your ward along with your Upgrade (see Upgrade) by tinkering as a respite activity.</p><p></p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.CJZzo25bRXvdnpi8"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.V1uoJPadagvR7ur8"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.NB4Oe75aH4nqDsc9"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.FToIp38vftBvRASE"
+          }
+        ],
+        "chooseN": 1,
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "g6fczuizSQJYU1M1": {
+        "name": "Magic Gadget",
+        "img": "icons/commodities/tech/detonator-radio.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "g6fczuizSQJYU1M1",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.yYYhR2Ymj9kHLiUV"
+          }
+        ],
+        "description": "<p>You have the following ability, which can be used as a free strike.</p>",
+        "sort": 0,
+        "chooseN": null,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "jJa1yM6U9gZOSS24": {
+        "name": "Perk",
+        "img": "icons/magic/symbols/fleur-de-lis-yellow.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 2
+        },
+        "_id": "jJa1yM6U9gZOSS24",
+        "description": "<p>You gain one crafting, lore, or supernatural perk of your choice.</p>",
+        "chooseN": 1,
+        "additional": {
+          "type": "perk",
+          "perkType": [
+            "crafting",
+            "lore",
+            "supernatural"
+          ]
+        },
+        "sort": 0,
+        "pool": []
+      },
+      "z4TLK7pfDBk9Id5W": {
+        "name": "Living Workshop",
+        "img": null,
+        "type": "itemGrant",
+        "requirements": {
+          "level": 3
+        },
+        "_id": "z4TLK7pfDBk9Id5W",
+        "description": "<p>You gain the following feature.</p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.Ffoh2vZYxcSPycFy"
+          }
+        ],
+        "sort": 0,
+        "chooseN": null,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "lh88BBjJ3KbOXb50": {
+        "name": "7-Wonder Ability",
+        "img": "icons/magic/symbols/cog-orange-red.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 3
+        },
+        "_id": "lh88BBjJ3KbOXb50",
+        "description": "<p>You gain one of the following abilities.</p>",
+        "chooseN": 1,
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.ky8u9IrXWCtp3oSc"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.JPmPHxBEZNJLSKJO"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.0W77MDjKyZJKWdm8"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.sn7sNNtmVVicm7lY"
+          }
+        ],
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "MKNgZkO1mlk5cswB": {
+        "name": "Infusion",
+        "img": null,
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "MKNgZkO1mlk5cswB",
+        "description": "<p>You gain the Infusion ability.</p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.O4Ptd1VvICpUm16y"
+          }
+        ],
+        "sort": 0,
+        "chooseN": null,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "VoAGpoHkfsAsOByU": {
+        "name": "Signature Abilities",
+        "img": "icons/tools/scribal/pen-steel-grey-brown.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "VoAGpoHkfsAsOByU",
+        "description": "<p>Choose two signature abilities from the following options. Signature abilities can be used at will. <em>(Quick Build: Arc Lightning, The Prototype)</em></p><p></p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.IEYcPmWGrgkS8Q4m"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.tGzlTtyyBfa5MZB6"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.hbJVfXWMPpo3x6Jr"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.kUsfph4J9Ma9cAwZ"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.lHFxmZt3anyjWKzN"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.KBMkyNZ8WBNBonAP"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.J1ejzGrHiJ5Cl27U"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.mbFhKIuuaITOciHC"
+          }
+        ],
+        "chooseN": 2,
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "VST3Qwdv52wVVe2f": {
+        "name": "3 -Wonder Ability",
+        "img": "icons/magic/symbols/cog-orange-red.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "VST3Qwdv52wVVe2f",
+        "description": "<p>Choose one heroic ability from the following options, each of which costs 3 wonder to use. <em>(Quick Build: Flash and Bang)</em></p><p></p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.gCIIAn8LKqqunALi"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.DAgYSBmy65C7wiis"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.y7fvdOboGMJ6Moyk"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.B9fSSnwjF1YO3k9h"
+          }
+        ],
+        "chooseN": 1,
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      },
+      "GEdqOQE8TjOTZoSk": {
+        "name": "5 -Wonder Ability",
+        "img": "icons/magic/symbols/cog-orange-red.webp",
+        "type": "itemGrant",
+        "requirements": {
+          "level": 1
+        },
+        "_id": "GEdqOQE8TjOTZoSk",
+        "description": "<p>Choose one heroic ability from the following options, each of which</p><p>costs 5 wonder to use. <em>(Quick Build: Omni-Tool.)</em></p>",
+        "pool": [
+          {
+            "uuid": "Compendium.world.magewright.Item.WDHwwJImCyhsoYy4"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.ENGGvx3c7QGp41xX"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.N3ePpaSUflutMVqe"
+          },
+          {
+            "uuid": "Compendium.world.magewright.Item.S6vPS44rlyDUXTze"
+          }
+        ],
+        "chooseN": 1,
+        "sort": 0,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      }
+    },
+    "level": 0,
+    "primary": "Wonder",
+    "epic": "Genius",
+    "turnGain": "1d3",
+    "minimum": "0",
+    "characteristics": {
+      "core": [
+        "reason"
+      ]
+    },
+    "stamina": {
+      "starting": 18,
+      "level": 6
+    },
+    "recoveries": 8
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!HEZ8sJWiccD2g9yk"
+}

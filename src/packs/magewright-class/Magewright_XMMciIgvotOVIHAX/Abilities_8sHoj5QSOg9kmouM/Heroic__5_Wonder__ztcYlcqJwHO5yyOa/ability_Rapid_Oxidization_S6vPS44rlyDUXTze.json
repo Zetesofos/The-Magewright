@@ -1,0 +1,148 @@
+{
+  "folder": "ztcYlcqJwHO5yyOa",
+  "name": "Rapid Oxidization",
+  "type": "ability",
+  "_id": "S6vPS44rlyDUXTze",
+  "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "rapid-oxidization",
+    "story": "A barrel of this will eat through a stone bridge in under ten minutes.",
+    "keywords": [
+      "area",
+      "magic",
+      "ranged"
+    ],
+    "type": "main",
+    "category": "heroic",
+    "resource": 5,
+    "trigger": "",
+    "distance": {
+      "type": "cube",
+      "primary": 3,
+      "secondary": 10
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "enemyObject",
+      "custom": "",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "formula": "@chr",
+        "characteristics": [
+          "reason"
+        ]
+      },
+      "effects": {
+        "2dvJSuxY14D5qtxW": {
+          "name": "",
+          "img": null,
+          "type": "damage",
+          "_id": "2dvJSuxY14D5qtxW",
+          "damage": {
+            "tier1": {
+              "value": "3",
+              "types": [
+                "acid"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "value": "5",
+              "types": [
+                "acid"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "value": "7",
+              "types": [
+                "acid"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          },
+          "sort": 0
+        },
+        "6bGI7pz5zfpyEV8S": {
+          "name": "",
+          "img": null,
+          "type": "applied",
+          "_id": "6bGI7pz5zfpyEV8S",
+          "applied": {
+            "tier1": {
+              "display": "{{potency}},  the target has damage weakness equal to your Reason score (save ends)",
+              "potency": {
+                "characteristic": "might",
+                "value": "@potency.weak"
+              },
+              "effects": {}
+            },
+            "tier2": {
+              "potency": {
+                "characteristic": "might",
+                "value": "@potency.average"
+              },
+              "display": "",
+              "effects": {}
+            },
+            "tier3": {
+              "potency": {
+                "characteristic": "might",
+                "value": "@potency.strong"
+              },
+              "display": "",
+              "effects": {}
+            }
+          },
+          "sort": 0
+        }
+      }
+    },
+    "effect": {
+      "before": "",
+      "after": "<p>The gas remains in the area until the end of the end of your next turn. Any creature who ends their turn in the area takes acid damage equal to your Reason score.</p><p></p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!S6vPS44rlyDUXTze"
+}

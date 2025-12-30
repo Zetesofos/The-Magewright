@@ -1,0 +1,39 @@
+{
+  "name": "Modular Architecture",
+  "type": "feature",
+  "img": "icons/commodities/tech/metal-pistons.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your experimental tinkering yields reliable results. When a creature uses one of your experimental devices, they gain 1 surge. </p><p>Additionally, whenever you create one or more experimental devices, you can now also choose from the following options:</p><ul><li><p><strong>Dimensional Modulator.</strong> When you make an ability roll with an ability with the Area keyword, you can activate this device and choose to increase or decrease the area size by 1. If you increase the size, you have a bane on the ability roll. If you decrease the area (minimum 1), you gain an edge on the ability roll. </p></li><li><p><strong>Probability Equalizer.</strong> When you use an ability with a power roll, you can activate this device to automatically obtain a tier 2 result. You must choose this feature before you make a power roll.</p></li><li><p><strong>Entropy Sink.</strong> When you use an ability that deals damage to a minion, you can activate this device to immediately kill that minion. The minion’s Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad. If you do, you take 1d6 damage.</p></li></ul>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "feature",
+    "advancements": {}
+  },
+  "effects": [],
+  "folder": "ZJ2IsFDvooWBUnhl",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "_id": "QRe2S5DAENCmJAzL",
+  "sort": 150000,
+  "_key": "!items!QRe2S5DAENCmJAzL"
+}

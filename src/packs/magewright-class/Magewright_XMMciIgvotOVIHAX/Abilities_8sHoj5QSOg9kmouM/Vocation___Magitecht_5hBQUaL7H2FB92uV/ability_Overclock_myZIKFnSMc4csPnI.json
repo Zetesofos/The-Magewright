@@ -1,0 +1,68 @@
+{
+  "folder": "5hBQUaL7H2FB92uV",
+  "name": "Overclock",
+  "type": "ability",
+  "_id": "myZIKFnSMc4csPnI",
+  "img": "icons/commodities/tech/dial-meter-gauge-blue.webp",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "overclock",
+    "story": "Just need a little...more...POWER!",
+    "keywords": [
+      "magic",
+      "ranged"
+    ],
+    "type": "triggered",
+    "category": "heroic",
+    "resource": null,
+    "trigger": "The target uses an ability.",
+    "distance": {
+      "type": "ranged",
+      "primary": 10
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "selfOrAlly",
+      "custom": "",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "formula": "@chr",
+        "characteristics": []
+      },
+      "effects": {}
+    },
+    "effect": {
+      "before": "<p>You can apply the effect of an additional experimental device to the triggering ability, even if the target doesn’t have the associated device. </p><p></p>",
+      "after": "<p><strong>Spend 1 Wonder:</strong> The target gains two surges, which they can use on the triggering ability. If the target activated an experimental device as part of this trigger, they may spend up to four surges on the triggering attack for extra damage, instead of three. </p>"
+    },
+    "spend": {
+      "text": "The target gains two surges, which they can use on the triggering ability. The target may spend up to four surges on the triggering attack, instead of three.",
+      "value": 1
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!myZIKFnSMc4csPnI"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "sv0uSlDkSdrDXgYA",
+  "name": "Synergetic Activation",
+  "type": "feature",
+  "_id": "wuhh7O0DllGhrgAH",
+  "img": "icons/magic/light/orb-shadow-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>At the start of an encounter, you can use a free triggered action to use your Infusion ability against one ally you have line of effect to, even if you are surprised. Additionally, whenever you use your free triggered action to activate an effect from your Sygaldry feature, you or another primed ally can spend a recovery. </p><p></p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "instant-activation",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!wuhh7O0DllGhrgAH"
+}

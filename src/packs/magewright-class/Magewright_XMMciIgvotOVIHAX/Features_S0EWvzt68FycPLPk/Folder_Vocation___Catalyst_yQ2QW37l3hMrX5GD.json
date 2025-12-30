@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "S0EWvzt68FycPLPk",
+  "name": "Vocation - Catalyst",
+  "color": null,
+  "sorting": "a",
+  "_id": "yQ2QW37l3hMrX5GD",
+  "description": "",
+  "sort": -100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!yQ2QW37l3hMrX5GD"
+}

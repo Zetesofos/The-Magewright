@@ -1,0 +1,39 @@
+{
+  "folder": "j2PjDLLtafMbWlNN",
+  "name": "Selective Function",
+  "type": "feature",
+  "_id": "zTmrzKL3YZN67eNi",
+  "img": "icons/sundries/documents/blueprint-helmet.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are able to upgrade your servitor to better suit your particular needs. Choose one of the following options: </p><p><strong>Steel Defender.</strong> Your servitor always treats a save ends effect as an EoT effect and their characteristic scores increase by 1 for the purpose of resisting potencies. It has an edge on Intuition tests.</p><p><strong>Hunter-Seeker.</strong> Your servitor gains a bonus to its speed and a bonus to the number of squares it can shift when it takes the Disengage move action equal to your Reason score. It gains a +2 bonus to its free strikes and its rolled damage bonus. It has an edge on Agility tests. </p><p><strong>War Frame.</strong> Your servitor replaces its current role with the mount role. Its size and stability increase by 1, with any size 1 target becoming size 2. While mounted on your servitor, abilities that target you have a double bane, and whenever you use your Infusion ability, your servitor can spend a recovery. It has an edge on Might tests.</p><p>When you take a respite activity to change your upgrade you can change the selective function feature for your servitor.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "selective-function",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!zTmrzKL3YZN67eNi"
+}

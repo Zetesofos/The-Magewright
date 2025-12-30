@@ -1,0 +1,39 @@
+{
+  "folder": "sv0uSlDkSdrDXgYA",
+  "name": "Master Maker",
+  "type": "feature",
+  "_id": "ERetp2fRjXf4KDFI",
+  "img": "icons/skills/trades/smithing-tongs-metal-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you make a project roll for a craft project, you may ignore a single bane before the roll. Additionally, you gain a breakthrough on project rolls to craft if you obtain a natural 18 on the project roll. </p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "master-maker",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!ERetp2fRjXf4KDFI"
+}

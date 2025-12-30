@@ -1,0 +1,39 @@
+{
+  "folder": "yQ2QW37l3hMrX5GD",
+  "name": "Elixir",
+  "type": "feature",
+  "_id": "TlqRkIaSiNN3Hzxd",
+  "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are able to distill your magic into elixirs and create a shared group resource called an Elixir Pool available to you and any ally that finishes a respite with you. At the start of an encounter, the Elixir Pool gains a number of elixirs equal to twice your Reason score, which retain their potency until the end of the encounter. </p><p>Once per turn, a creature can consume an elixir as a free maneuver, or use a maneuver to administer an elixir to a willing adjacent creature. They choose one of the following benefits for the elixir to grant when administered: </p><ul><li><p><strong>Surge.</strong> The target gains 2 surges.</p></li><li><p><strong>Recovery.</strong> The target can spend a Recovery.</p></li><li><p><strong>Saving Throw.</strong> The target can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></li></ul><p>Additionally, you can use a maneuver to create an elixir, which can be added to the Elixir Pool, or used immediately by you or an adjacent ally.</p><p></p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "elixir",
+    "advancements": {}
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!TlqRkIaSiNN3Hzxd"
+}

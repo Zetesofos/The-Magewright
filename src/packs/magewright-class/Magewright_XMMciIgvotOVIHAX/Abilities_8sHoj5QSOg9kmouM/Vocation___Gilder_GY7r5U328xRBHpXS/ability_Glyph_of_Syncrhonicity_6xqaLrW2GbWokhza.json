@@ -1,0 +1,68 @@
+{
+  "folder": "GY7r5U328xRBHpXS",
+  "name": "Glyph of Syncrhonicity",
+  "type": "ability",
+  "_id": "6xqaLrW2GbWokhza",
+  "img": "icons/magic/time/day-night-sun-moon.webp",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "glyph-of-syncrhonicity",
+    "story": "When these glyphs activate, your allies become able to act in tandem",
+    "keywords": [
+      "magic",
+      "ranged"
+    ],
+    "type": "maneuver",
+    "category": "heroic",
+    "resource": 5,
+    "trigger": "",
+    "distance": {
+      "type": "ranged",
+      "primary": 10
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "creature",
+      "custom": "",
+      "value": 2
+    },
+    "power": {
+      "roll": {
+        "formula": "@chr",
+        "characteristics": []
+      },
+      "effects": {}
+    },
+    "effect": {
+      "before": "<p>You can target yourself instead of one creature with this ability. The targets become primed by you and gain 2 surges.</p><p></p>",
+      "after": "<p><strong>Primed Benefit:</strong> Until the end of the encounter, whenever a primed creature uses a Main action, you can spend 1 or more wonder to allow one other primed creature per 1 wonder spent to use a free triggered action to shift up to half their speed and make a free strike.</p><p></p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!6xqaLrW2GbWokhza"
+}

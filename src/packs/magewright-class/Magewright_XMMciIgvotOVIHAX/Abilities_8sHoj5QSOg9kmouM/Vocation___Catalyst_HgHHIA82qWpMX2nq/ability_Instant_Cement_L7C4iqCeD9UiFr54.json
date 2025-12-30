@@ -1,0 +1,202 @@
+{
+  "folder": "HgHHIA82qWpMX2nq",
+  "name": "Instant Cement",
+  "type": "ability",
+  "_id": "L7C4iqCeD9UiFr54",
+  "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "instant-cement",
+    "story": "This toxic tar absorbs nearby moisture to reinforce the hardening process.",
+    "keywords": [
+      "area",
+      "magic",
+      "ranged"
+    ],
+    "type": "main",
+    "category": "heroic",
+    "resource": 5,
+    "trigger": "",
+    "distance": {
+      "type": "cube",
+      "primary": 4,
+      "secondary": 10
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "enemy",
+      "custom": "",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "formula": "@chr",
+        "characteristics": [
+          "reason"
+        ]
+      },
+      "effects": {
+        "kLYR5ez6zpL90Axx": {
+          "name": "",
+          "img": null,
+          "type": "damage",
+          "_id": "kLYR5ez6zpL90Axx",
+          "damage": {
+            "tier1": {
+              "value": "2",
+              "types": [
+                "poison"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "value": "4",
+              "types": [
+                "poison"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "value": "5",
+              "types": [
+                "poison"
+              ],
+              "properties": [],
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          },
+          "sort": 0
+        },
+        "D3jM0tz62qyqjEZQ": {
+          "name": "",
+          "img": null,
+          "type": "applied",
+          "_id": "D3jM0tz62qyqjEZQ",
+          "applied": {
+            "tier1": {
+              "display": "{{potency}}, slowed (save ends)",
+              "potency": {
+                "characteristic": "might",
+                "value": "@potency.weak"
+              },
+              "effects": {
+                "slowed": {
+                  "condition": "failure",
+                  "end": "save",
+                  "properties": []
+                }
+              }
+            },
+            "tier2": {
+              "effects": {
+                "slowed": {
+                  "condition": "failure",
+                  "end": "save",
+                  "properties": []
+                }
+              },
+              "display": "",
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "potency": {
+                "characteristic": "",
+                "value": "@potency.strong"
+              },
+              "effects": {
+                "slowed": {
+                  "condition": "failure",
+                  "end": "save",
+                  "properties": []
+                }
+              },
+              "display": ""
+            }
+          },
+          "sort": 0
+        }
+      }
+    },
+    "effect": {
+      "before": "",
+      "after": "<p>The area is considered difficult terrain. The tar remains in the area until the end of the encounter. Any creature who starts their turn in the area and has is <strong>M &lt; Average</strong> slowed (save ends). If the target is already slowed, they are instead restrained (save ends).</p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [
+    {
+      "name": "Active Effect",
+      "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+      "origin": "Compendium.world.magewright.Item.L7C4iqCeD9UiFr54",
+      "transfer": false,
+      "_id": "b73clP0zftKr1B9r",
+      "type": "base",
+      "system": {
+        "end": {
+          "type": "",
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.9.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!L7C4iqCeD9UiFr54.b73clP0zftKr1B9r"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "dX0hFRdXJ0TSnZ3H": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.9.2",
+    "createdTime": 1767035342306,
+    "modifiedTime": 1767035342306,
+    "lastModifiedBy": "dX0hFRdXJ0TSnZ3H"
+  },
+  "_key": "!items!L7C4iqCeD9UiFr54"
+}
