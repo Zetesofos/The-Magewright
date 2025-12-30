@@ -1,4 +1,7 @@
 {
+  "download": "AUTOMATIC",
+  "url": "https://github.com/Zetesofos/The-Magewright",
+  "manifest": "https://github.com/Zetesofos/The-Magewright/releases/latest/download/module.json",
   "id": "the-magewright",
   "title": "The Magewright",
   "version": "1.0.1",
