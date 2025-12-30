@@ -20,7 +20,13 @@
   "flags": {
     "canUpload": true
   },
-  "packs": [
+  "packFolders": [
+    {
+      "name": "The Magewright",
+      "color": "#1d45bf",
+      "packs": ["magewright-class", "magewright-perks", "magewright-servitors", "magewright-treasures",]
+    }
+  ],"packs": [
     {
       "name": "magewright-class",
       "label": "Magewright Class",
