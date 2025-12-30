@@ -11,6 +11,7 @@
   "type": "ESM",
   "main": "index.js",
   "scripts": {
+	"build": "npm run build:packs",  
     "pullJSONtoLDB": "node ./tools/pullJSONtoLDB.mjs",
     "pushLDBtoJSON": "node ./tools/pushLDBtoJSON.mjs",
     "unpack": "npm run pushLDBtoJSON",
