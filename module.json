@@ -24,7 +24,7 @@
     {
       "name": "The Magewright",
       "color": "#1d45bf",
-      "packs": ["magewright-class", "magewright-perks", "magewright-servitors", "magewright-treasures",]
+      "packs": ["magewright-class", "magewright-perks", "magewright-servitors", "magewright-treasures"]
     }
   ],"packs": [
     {
